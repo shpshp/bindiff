@@ -1,0 +1,4 @@
+.idea\
+*.cmd
+*.bin
+*.pcap
